@@ -1,5 +1,10 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+ <p align="center"><h1 align="center"><samp> I'm <a href="#"> Rim4j </a> </samp></h1></p>
+<p align="center"><h3 align="center"><samp>Flutter Developer</samp></h3></p>
+<br>
+<div>
+  
 <!--
 **rim4j/rim4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
