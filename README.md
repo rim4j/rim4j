@@ -18,9 +18,7 @@ Focus on work with coffe ☕️
 
 
 
-  ### Github Stats
 
-[![Rim4j Github Stats](https://github-readme-stats.vercel.app/api?username=rim4j&count_private=true&theme=dracula&show_icons=true)](https://github.com/rim4j)
 
 
  
