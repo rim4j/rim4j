@@ -8,7 +8,7 @@
 
   ### Github Stats
 
-[![Rim4j Github Stats](https://github-readme-stats.vercel.app/api?username=rim4j&count_private=true&theme=default&show_icons=true)](https://github.com/rim4j)
+[![Rim4j Github Stats](https://github-readme-stats.vercel.app/api?username=rim4j&count_private=true&theme=dark&show_icons=true)](https://github.com/rim4j)
 
 
  
