@@ -4,7 +4,14 @@
 <p align="center"><h3 align="center"><samp>Flutter Developer</samp></h3></p>
 <br>
 <div>
-  
+
+
+  ### Github Stats
+
+[![Rim4j Github Stats](https://github-readme-stats.vercel.app/api?username=rim4j&count_private=true&theme=default&show_icons=true)](https://github.com/rim4j)
+
+
+ 
 <!--
 **rim4j/rim4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
