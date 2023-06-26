@@ -6,11 +6,12 @@
 <div>
 
 
-focus on work with coffe ☕️
+Focus on work with coffe ☕️
 
 - 🔭 I’m currently working on mobile app
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything related to Flutter
+
 
 
 
