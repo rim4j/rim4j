@@ -19,6 +19,18 @@ Focus on work with coffee ☕️
 
 [![Rim4j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rim4j&theme=dracula&show_icons=true)](https://github.com/Rim4j/github-readme-stats)
 
+
+### Skills
+
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="flutter" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="git" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="firebase" /></a>
+ 
+</p>
+
+
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
